@@ -1,7 +1,8 @@
 # Trading
 
-Learn how to create trading bots
+GOAL : Learn how to create trading bots
 
+List 
 - Forex
 - VPS trading forex
-- Equation differentielle de second niveau
+- Equation differentielle de second degre
